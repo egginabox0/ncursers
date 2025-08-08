@@ -1,0 +1,1 @@
+C:\Users\lucas\OneDrive\Desktop\rust\ and\ shit\ncursers\ncursers\target\debug\libncursers.rlib: C:\Users\lucas\OneDrive\Desktop\rust\ and\ shit\ncursers\ncursers\src\constants.rs C:\Users\lucas\OneDrive\Desktop\rust\ and\ shit\ncursers\ncursers\src\lib.rs C:\Users\lucas\OneDrive\Desktop\rust\ and\ shit\ncursers\ncursers\src\window.rs

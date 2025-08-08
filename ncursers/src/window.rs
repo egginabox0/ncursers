@@ -1,3 +1,8 @@
+pub enum ValidWindowParents {
+    Window,
+    None
+}
+
 pub enum ConstraintOptions {
     None,
     ClipDescendants,
@@ -5,5 +10,5 @@ pub enum ConstraintOptions {
 }
 
 pub struct Window {
-
+    //TODO: me :3
 }
