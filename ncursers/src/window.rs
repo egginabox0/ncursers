@@ -1,7 +1,4 @@
-pub enum ValidWindowParents {
-    Window,
-    None
-}
+
 
 pub enum ConstraintOptions {
     None,
@@ -10,5 +7,19 @@ pub enum ConstraintOptions {
 }
 
 pub struct Window {
-    //TODO: me :3
+    parent: Box<Window>,
+    child: Box<Window>, //TODO: figure out how to allow Windows to not have children
+
+    height: u16,
+    width: u16,
+
+    col: u16,
+    lin: u16,
+
+    render_order: u16,
+    render_constraint: ConstraintOptions,
+} impl Window {
+    fn new() {
+        
+    }
 }
